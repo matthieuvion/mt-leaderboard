@@ -1,6 +1,7 @@
 import logging
+
 import httpx
-from .exceptions import APIError
+from exceptions import APIError
 
 
 class MonsterTrainClient:
