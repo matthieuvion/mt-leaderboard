@@ -1,0 +1,32 @@
+{
+    "c595c344-d323-4cf1-9ad6-41edc2aebbd0": {
+        "from_file": "VanillaClanIDs",
+        "asset_name": "ClassHellhorned",
+        "asset_string": "Hellhorned"
+    },
+    "fd119fcf-c2cf-469e-8a5a-e9b0f265560d": {
+        "from_file": "VanillaClanIDs",
+        "asset_name": "ClassAwoken",
+        "asset_string": "Awoken"
+    },
+    "9317cf9a-04ec-49da-be29-0e4ed61eb8ba": {
+        "from_file": "VanillaClanIDs",
+        "asset_name": "ClassStygian",
+        "asset_string": "Stygian"
+    },
+    "4fe56363-b1d9-46b7-9a09-bd2df1a5329f": {
+        "from_file": "VanillaClanIDs",
+        "asset_name": "ClassUmbra",
+        "asset_string": "Umbra"
+    },
+    "fda62ada-520e-42f3-aa88-e4a78549c4a2": {
+        "from_file": "VanillaClanIDs",
+        "asset_name": "ClassRemnant",
+        "asset_string": "MeltingRemnant"
+    },
+    "46ae87db-d92e-4fcb-a3bc-67c723d7bebd": {
+        "from_file": "VanillaClanIDs",
+        "asset_name": "ClassWurm",
+        "asset_string": "Wurmkin"
+    }
+}

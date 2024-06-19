@@ -1,0 +1,1427 @@
+{
+    "d5dd7d58-dd1b-4c46-9308-77179c39c915": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Glimmer",
+        "asset_string": "Glimmer"
+    },
+    "8ccdb317-e3e3-47b1-95c0-662ffe3fb7c6": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RazorsharpEdge",
+        "asset_string": "RazorsharpEdge"
+    },
+    "acc303db-30ea-4ff1-8e46-97344210cb6b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RegenPotion",
+        "asset_string": "WildwoodSap"
+    },
+    "5f4f426e-3ca6-4a04-bede-3eab9a3723a9": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RestorationDetonation",
+        "asset_string": "RestorationDetonation"
+    },
+    "2ff4ef73-00f4-4bd5-b868-607320188980": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Sharpen",
+        "asset_string": "Sharpen"
+    },
+    "84314844-3a47-4173-9d34-5d15de013571": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SteelEnhancer",
+        "asset_string": "SteelEnhancer"
+    },
+    "356a00a4-010b-462b-b683-2ef296d076a8": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Sting",
+        "asset_string": "Sting"
+    },
+    "1450e56b-ca09-453a-937a-97bd44bcb3de": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "VineGrasp",
+        "asset_string": "VineGrasp"
+    },
+    "e66178fd-b8e7-401c-b570-7832840ea902": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AnimusOfSpeed",
+        "asset_string": "AnimusofWill"
+    },
+    "d632e3f2-c5cf-49d0-aa05-0c79331f6c85": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AnimusOfWill",
+        "asset_string": "AnimusofSpeed"
+    },
+    "bd2fe27a-e8d9-4f1b-ae3c-549f1428e441": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AwokenChampionRoot",
+        "asset_string": "Wyldenten"
+    },
+    "d14a50f3-728d-43e1-87f0-ef1b013f6697": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AwokenChampionSentient",
+        "asset_string": "TheSentient"
+    },
+    "0c68b12a-0779-4c3c-bf64-6bc5bcf83e9f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HollowGolem",
+        "asset_string": "AwokenHollow"
+    },
+    "82e21764-56cb-4e41-882f-ab3dd0c1dcbc": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HuskHermit",
+        "asset_string": "HuskHermit"
+    },
+    "57985d47-d8ac-46be-8545-20a51209fc4f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ShatteredShell",
+        "asset_string": "ShatteredShell"
+    },
+    "8c404be7-7179-461c-8e7d-b5fdb296174c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SpikeGolem",
+        "asset_string": "ThornedHollow"
+    },
+    "f25d8b79-056a-4db3-940d-c6cfc540bc4d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterBuff",
+        "asset_string": "Rootseeds"
+    },
+    "d81f1f43-f20e-4459-9fc4-19e5836a876f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterHeal",
+        "asset_string": "Restore"
+    },
+    "6f23bf7b-49c3-4a30-aa84-542ab9f939d0": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AdaptiveMutation",
+        "asset_string": "AdaptiveMutation"
+    },
+    "a6a701f6-cb73-4880-b9b3-ed1abb3b23d4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AwokensRailSpike",
+        "asset_string": "AwokensRailSpike"
+    },
+    "37a1de5d-4e3b-428a-9b83-006f1bf4dbce": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Channelsong",
+        "asset_string": "Channelsong"
+    },
+    "175a7730-7a1c-4da1-97b8-d799e7570396": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CycleOfLife",
+        "asset_string": "CycleofLife"
+    },
+    "1362aa8c-d7b4-49b9-a4f7-268f47de4aa6": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ShardChanneler",
+        "asset_string": "ShardChanneler"
+    },
+    "ce089ee2-6dcf-42b2-afbb-caea050fe87c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SpreadingSpores",
+        "asset_string": "SpreadingSpores"
+    },
+    "d861b6a6-d8ef-4d58-8ebd-9f0abc276456": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "UnleashTheWildwood",
+        "asset_string": "UnleashtheWildwood"
+    },
+    "8917df91-1517-4490-abd1-b58a065807fe": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Vinemother",
+        "asset_string": "Vinemother"
+    },
+    "331b6cd2-cdf9-452e-a35d-5d310240190d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WildwoodTome",
+        "asset_string": "WildwoodTome"
+    },
+    "107ecf70-99f8-47d1-b1e1-8627fff3f574": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WiltingSapwood",
+        "asset_string": "WiltingSapwood"
+    },
+    "4cf1b860-5873-45ff-95aa-a583d355f344": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AddThornsPotion",
+        "asset_string": "PreservedThorns"
+    },
+    "57921ae8-ca98-4a3b-a659-5e741d2e904a": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Awake",
+        "asset_string": "Awake"
+    },
+    "e5651931-70a9-422e-8780-263ea77e4c28": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BrambleLash",
+        "asset_string": "BrambleLash"
+    },
+    "84633260-7209-4515-9582-82605ee2a36a": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CardDrawPotion",
+        "asset_string": "InvigoratingSolution"
+    },
+    "f892b119-fa6a-4f69-9369-10e29bcfd96e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EdgePrior",
+        "asset_string": "EdgePrior"
+    },
+    "4bf98c5f-73c5-42ed-af98-9dc8cf77c1ac": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Engraft",
+        "asset_string": "Engraft"
+    },
+    "2260a35e-0570-4e22-a3e0-4c39acfeb933": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Ensnare",
+        "asset_string": "Ensnare"
+    },
+    "25787bff-d2fb-4d9a-a636-d96a5863d559": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FocusedGrowth",
+        "asset_string": "FocusedGrowth"
+    },
+    "2ba0f9eb-744e-4b3c-af4e-3ad39ae8a74f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "PyreGro",
+        "asset_string": "PyreGro"
+    },
+    "e2a9868d-1f0e-47b1-abe4-490ee940270b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RestoringRetreat",
+        "asset_string": "RestoringRetreat"
+    },
+    "ec0980cf-9f88-4d38-9704-b89042f2f625": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SpikePotion",
+        "asset_string": "PyreShards"
+    },
+    "58ac2b3e-ad25-4620-b814-6a3a74175aa4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WildwoodCustodian",
+        "asset_string": "WildwoodCustodian"
+    },
+    "251c3fe2-3c6e-4640-9c98-532a568c5c22": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AnnhilateRoomDamageScaling",
+        "asset_string": "MostBlessedSword"
+    },
+    "b071165e-633e-40dd-a80e-5b1bca1ac218": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AnnhilateShieldHeal",
+        "asset_string": "ThyHoliestShield"
+    },
+    "b7ea5e0b-c3a6-400e-825c-6e8973dd75dc": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AnnhilateSingleKill",
+        "asset_string": "PetrifiedSkull"
+    },
+    "16e52d2a-12f6-418d-856c-65fa87df23bc": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "DamageStealGold",
+        "asset_string": "PettyTheft"
+    },
+    "ef68dec7-0d1f-4a3a-a320-8dc16c9fc07e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "DanteUnit",
+        "asset_string": "DantetheDeceptive"
+    },
+    "b9908a62-c579-4614-8ca3-f58dbb995c97": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "GainXGold",
+        "asset_string": "GiftofGratitude"
+    },
+    "02709245-5f76-4831-ae7c-1cdd637e1def": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HeroBottomBump",
+        "asset_string": "TrapChute"
+    },
+    "118b9c0c-48a6-4d9e-99e8-477ae571a18f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ReplicatingSpell",
+        "asset_string": "AutomaticRailspikes"
+    },
+    "b089b640-b979-4f33-8524-89123f6d2bfe": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ReplicatingUnit",
+        "asset_string": "SpikedriverColony"
+    },
+    "b33b62d2-5fa5-4bae-a23d-93832330e7e8": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RoomHeroAscendDazed",
+        "asset_string": "SteelPulleyclaw"
+    },
+    "099e5d09-4ed4-4fcb-9682-4ec2e77d5ddd": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ScalingBuffTrain",
+        "asset_string": "BoneRattler"
+    },
+    "4583d63b-469f-44e7-9e60-1a245bff3657": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ScalingHealTrain",
+        "asset_string": "Boneshine"
+    },
+    "d0e1fe8a-fb2a-44e0-9d9b-a3ddd7475c34": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SelfPurgeEnergyGain",
+        "asset_string": "ExcavatedEmber"
+    },
+    "5a8399dd-a958-4317-b814-de0e2972ca3d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AggressiveImp",
+        "asset_string": "FledglingImp"
+    },
+    "1dd23b59-fa5e-44bc-83ca-de119ede4f21": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Fortify",
+        "asset_string": "Fortify"
+    },
+    "b67ca7bf-bd65-4d98-ae53-26397de1e355": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HiddenPassage",
+        "asset_string": "HiddenPassage"
+    },
+    "5a88d0e1-1c31-40f0-9e8d-8068dad832e9": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HornBreak",
+        "asset_string": "HornBreak"
+    },
+    "f9f20326-dccb-44af-894b-467534afab4a": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RitualOfBattle",
+        "asset_string": "RitualofBattle"
+    },
+    "2955e19c-a7d7-4b6a-b447-b60a976628ae": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "UnstableInfery",
+        "asset_string": "MoltingImp"
+    },
+    "a54a1fa9-8cf3-4be2-a9c6-d0e50bb82c7d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Vent",
+        "asset_string": "Vent"
+    },
+    "61d9f4f1-80f5-416b-bf22-1836925c8ccd": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WelderHelper",
+        "asset_string": "WelderHelper"
+    },
+    "4aa37169-c5cf-4a5b-b927-dc31b05f6e24": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AlphaFiend",
+        "asset_string": "AlphaFiend"
+    },
+    "c493d7e0-6731-4d8a-9ae1-56e44febb891": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Basher",
+        "asset_string": "DemonFiend"
+    },
+    "276fdd51-4bb8-4810-9bbf-cb663522b70f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BrandedWarrior",
+        "asset_string": "BrandedWarrior"
+    },
+    "2cbf61fc-f26b-4a57-a738-79589586dba7": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HornbreakerChampion",
+        "asset_string": "HornbreakerPrince"
+    },
+    "5de24977-6800-4015-a20e-9949e79e057c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HornedWarrior",
+        "asset_string": "HornedWarrior"
+    },
+    "7cff7749-0803-402c-8a9a-965222c24b4b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ImpQueenChampion",
+        "asset_string": "ShardtailQueen"
+    },
+    "c8b428ac-a1e9-4e52-96e0-5eed522195a2": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Railbeater",
+        "asset_string": "Railbeater"
+    },
+    "d76be2d0-f851-4d43-bdc0-7c7a7779724f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterImp",
+        "asset_string": "QueensImpling"
+    },
+    "f1dbd7d5-74fc-4507-aba1-dc1a8ec9393b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterTorch",
+        "asset_string": "Torch"
+    },
+    "600ef4bf-59ec-45b6-a3e7-273cbb43c7bb": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Steelworker",
+        "asset_string": "Steelworker"
+    },
+    "61f74a3a-8292-4478-b213-50cef449ed61": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ConsumerOfCrowns",
+        "asset_string": "ConsumerofCrowns"
+    },
+    "6a6c4a72-3e32-4995-8070-68d9240de0d5": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "DarkDeal",
+        "asset_string": "DarkDeal"
+    },
+    "3cb0976c-7cf5-4470-bb5a-7eacfb404e9a": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "DerangedBrute",
+        "asset_string": "DerangedBrute"
+    },
+    "141494fe-0ac3-41ad-b1e6-05aeafe060f6": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ImmortalityPotion",
+        "asset_string": "AlloyoftheAncients"
+    },
+    "e6e77821-f0c2-4d76-bc7f-2efece0e065f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ImpOlate",
+        "asset_string": "Impolate"
+    },
+    "3799918c-a831-4599-a65f-acfc68f582b9": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "LastStand",
+        "asset_string": "LastStand"
+    },
+    "37aa21f4-1d01-4fe5-83ce-69f52c8c2750": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "OnehornsTome",
+        "asset_string": "OnehornsTome"
+    },
+    "0a256fdf-bd45-49a0-a9e6-a48dd182eca2": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Reinforce",
+        "asset_string": "Reinforce"
+    },
+    "7684a346-ac5f-41a4-8c88-1691784a185e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SpikeOfTheHellhorned",
+        "asset_string": "SpikeoftheHellhorned"
+    },
+    "57c1d696-f48d-48a3-9ac5-e868f3f669fe": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "TranscendImp",
+        "asset_string": "Transcendimp"
+    },
+    "fc525983-11ed-4612-997e-b53b07b52d48": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BatteringRam",
+        "asset_string": "BatteringRam"
+    },
+    "f381b99b-518d-4818-b182-44d8f04110be": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BrandingRite",
+        "asset_string": "BrandingRite"
+    },
+    "a736e605-a4f4-4cc1-8eba-63cb0cf3515e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EmberedInfery",
+        "asset_string": "PyreChomper"
+    },
+    "64beabe3-0260-44e2-a47a-b07192b52f25": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Enflame",
+        "asset_string": "Enflame"
+    },
+    "4cad5d6e-3c7e-4993-9d3d-53948dae4b6d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EnlightenedInfery",
+        "asset_string": "ImpishScholar"
+    },
+    "61db7d04-3db6-4780-82e9-8f4d7fc2b56c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ImpInABox",
+        "asset_string": "ImpinaBox"
+    },
+    "adfdfdab-18cf-4f2e-8664-f33dd9251ba4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ImpPressive",
+        "asset_string": "Imppressive"
+    },
+    "17f98264-cbc5-46c4-8fd8-8f86c413e228": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ImpProvisation",
+        "asset_string": "ImpportantWork"
+    },
+    "887b4b22-7f26-443f-b942-8ad620741617": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Inferno",
+        "asset_string": "Inferno"
+    },
+    "ac87d3d4-c542-4950-878a-50cbc9a45919": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MarchOfShields",
+        "asset_string": "MarchofShields"
+    },
+    "2ed78ce2-13c3-4e82-963f-99c9ea12d0f0": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RageSerum",
+        "asset_string": "RageSerum"
+    },
+    "9170969d-ab4b-4de2-8d24-674a65aa2894": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "TiresomeClimb",
+        "asset_string": "TiresomeClimb"
+    },
+    "2f83b242-0795-42fc-9e25-9e9a9f04fc1c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BlightDanteCandle",
+        "asset_string": "DantesCandle"
+    },
+    "186180e9-94e9-47d0-b69c-865b9a6d27a4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BlightPyreDamageInHand",
+        "asset_string": "VengefulShard"
+    },
+    "04d77166-b94f-49b6-a6b9-08b7fc455b29": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BoneDog",
+        "asset_string": "BoneDogsFavor"
+    },
+    "62cc5532-5fa0-4e66-9fec-85be573af359": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ScourgeT1",
+        "asset_string": "SinnersBurden"
+    },
+    "2785cc8e-d0e8-46c0-84ab-9c1d602525d4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ScourgeT2",
+        "asset_string": "WeightofContrition"
+    },
+    "fbf74ec4-2781-4b99-b6f7-b7d75236da60": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ScourgeT3",
+        "asset_string": "SelfMutilation"
+    },
+    "4ca4d8c8-3095-441b-9bb0-e8b644f9dafc": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ScourgeUltimate",
+        "asset_string": "TheUltimatePenance"
+    },
+    "21038774-c0a4-413c-ab7e-27e458228e5f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SelfPurgeBlight",
+        "asset_string": "CalcifiedEmber"
+    },
+    "d14a50f3-728d-43e1-87f0-ef1b013f6678": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "TrainSteward",
+        "asset_string": "TrainSteward"
+    },
+    "f94572f9-d280-4990-a112-2c94f8fd7ede": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "UnplayableUnpurgeable",
+        "asset_string": "Deadweight"
+    },
+    "3b74c955-fd58-4b60-81a7-e2d6a0aaa2d4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Draff",
+        "asset_string": "Draff"
+    },
+    "01f1fe24-f72b-4749-833b-46796463cdd7": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Dripfall",
+        "asset_string": "Dripfall"
+    },
+    "9a8943a3-d6a6-454b-91d4-d6d08dd6fd81": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EntombedExplosive",
+        "asset_string": "EntombedExplosive"
+    },
+    "dea99a2f-48c9-4246-ad44-01e84f46171e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Molded",
+        "asset_string": "Molded"
+    },
+    "b20aaea2-cf9e-4475-aac3-abba7a0bed7e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MoltenEncasement",
+        "asset_string": "MoltenEncasement"
+    },
+    "d4366b7c-588c-49aa-b2c6-2aeb30b0e01b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "PurifyingCleanse",
+        "asset_string": "PurifyingCleanse"
+    },
+    "a1b4c056-c5cc-4389-ab6c-aca170119a05": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WickExtension",
+        "asset_string": "HallowedDrippings"
+    },
+    "194685d1-6c39-42ce-9208-bcadcf5c34a9": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Wicklash",
+        "asset_string": "Wicklash"
+    },
+    "b16b036b-cc04-4520-8aae-c7af7d94ca62": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "LadyOfTheHouse",
+        "asset_string": "LadyoftheHouse"
+    },
+    "5ac22130-17f1-4f8e-967f-a2d3b71ef7ca": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "LadyOfTheReformed",
+        "asset_string": "LadyoftheReformed"
+    },
+    "b9788a77-50da-4654-acfa-960c23649984": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ParrafinEnforcer",
+        "asset_string": "ParaffinEnforcer"
+    },
+    "a2bc0531-4037-418b-a30b-9189cc580adf": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ParrafinThug",
+        "asset_string": "ParaffinThug"
+    },
+    "7052d604-bf4b-49cb-a1a9-1a0c47033c50": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RemnantChampion",
+        "asset_string": "RectorFlicker"
+    },
+    "d2a5feba-4ecd-4d5d-a206-ec2ebfb96667": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RemnantFirstWaxerChampion",
+        "asset_string": "LittleFade"
+    },
+    "63a48bad-07da-4687-bfef-2f7c6653af5e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterDreg",
+        "asset_string": "Dreg"
+    },
+    "fa394e19-4279-4e43-b0b3-75da045fc1eb": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterReform",
+        "asset_string": "PrimitiveMold"
+    },
+    "4cf9eb1d-b852-4514-8f32-831bc38276ec": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WicklessBaron",
+        "asset_string": "WicklessBaron"
+    },
+    "918f8345-8660-49de-a764-d16e76343abc": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WicklessTycoon",
+        "asset_string": "WicklessTycoon"
+    },
+    "3e86422e-c8e4-4ec7-bc0a-0c622b7237b4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BountyStalker",
+        "asset_string": "BountyStalker"
+    },
+    "68a76ecf-2108-4b7f-b805-b3653cdd96bf": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "DeathEater",
+        "asset_string": "DevourerofDeath"
+    },
+    "55a291ba-611e-4e29-93b0-08f5154ceb89": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FormlessChild",
+        "asset_string": "FormlessChild"
+    },
+    "cd5cea65-b1fb-4f25-aea1-dc2c3f6e6e18": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "IntentOnDeath",
+        "asset_string": "IntentonDeath"
+    },
+    "5336f488-1e09-40a5-97bc-5a5fde3c5e55": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Monstrosity",
+        "asset_string": "BigSludge"
+    },
+    "6534ff5b-d036-4b2f-ac21-70ee4d68700e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RemnantPact",
+        "asset_string": "RemnantPact"
+    },
+    "a27a5954-d63a-4b7c-9cff-308aa6a91314": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SacrificialRessurection",
+        "asset_string": "SacrificialResurrection"
+    },
+    "1fd77f47-4735-41d0-b660-66df674f1969": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SplitterUnit",
+        "asset_string": "LegionofWax"
+    },
+    "8d291f9a-30a1-4a6d-8d9e-6dc2df4432d1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WaxenSpike",
+        "asset_string": "WaxenSpike"
+    },
+    "2d5f5f3d-fefb-448c-a819-4c82b0c6b17b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WicklessRecruitment",
+        "asset_string": "WicklessRecruitment"
+    },
+    "97d18bbe-6fa9-45a4-90a9-5a1d0ea24ca3": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "DamageExtinguish",
+        "asset_string": "AFatalMelting"
+    },
+    "b8f0ce9f-65ef-49cd-87e5-a75dd95b7032": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "DregsTomb",
+        "asset_string": "RemnantHost"
+    },
+    "25f84315-da10-4915-aa5d-e3f1a38124b4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EngulfedInSmoke",
+        "asset_string": "EngulfedinSmoke"
+    },
+    "75a82656-de22-4b86-b581-79ffa34f3afe": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "KillRandomUnit",
+        "asset_string": "CrushingDemise"
+    },
+    "c04c359c-9991-42bc-9040-bff7d3441248": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MementoMori",
+        "asset_string": "MementoMori"
+    },
+    "98f20790-57cc-4bce-943a-2ad5955974d8": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MemoriesOfTheMelted",
+        "asset_string": "MemoriesoftheMelted"
+    },
+    "5b88c130-70b3-42cc-9903-4d245b4f946f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RapidRaise",
+        "asset_string": "SacredWicks"
+    },
+    "974f9021-d1e3-4b8b-b348-d737a1868ed1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ResinRemoval",
+        "asset_string": "ResinRemoval"
+    },
+    "9113371f-f1dc-4971-b8d4-ed2930e456bc": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RIP",
+        "asset_string": "MortalEntrapment"
+    },
+    "f29d063b-cb41-44ee-8118-4db66b6f8195": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SubsumingBlade",
+        "asset_string": "SubsumingBlade"
+    },
+    "e9bb0dfe-ecf7-4046-be6d-f6f00893662f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Votivary",
+        "asset_string": "Votivary"
+    },
+    "d930a4fe-1419-4c21-9ef2-fda4e25ee90b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WickedBlaze",
+        "asset_string": "WickedBlaze"
+    },
+    "b9ef3012-9b1c-4cca-b60b-661c79c07ddb": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CryptBuilder",
+        "asset_string": "CryptBuilder"
+    },
+    "a7207665-b6d1-4cd1-997e-8a7bb789c766": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EnergySiphon",
+        "asset_string": "EnergySiphon"
+    },
+    "a6c8ce76-3c82-47ca-a6e0-8a20e84558dd": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FlashFreeze",
+        "asset_string": "FlashFreeze"
+    },
+    "d4b4e903-0d62-4a3b-bb05-002a358fcba1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "IceTornado",
+        "asset_string": "IceTornado"
+    },
+    "d8c13978-32aa-4476-b568-68a3d83e1d49": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MagicPowerAcolyte",
+        "asset_string": "Molluscmage"
+    },
+    "e2d5dbd1-3930-4a41-9631-bef04cbc3fa4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "OfferingToken",
+        "asset_string": "OfferingToken"
+    },
+    "9de23f57-7471-4c57-9b2e-b47f17e5f278": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "TitansGratitude",
+        "asset_string": "TitansGratitude"
+    },
+    "0a97eac9-329c-41af-a27e-e6ce37efc632": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "TwinShards",
+        "asset_string": "HelicalCrystalis"
+    },
+    "ca84a9e5-f167-49d1-91cc-ba662d3c1dc4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ColdstingSiren",
+        "asset_string": "Coldcaelia"
+    },
+    "ff11e59c-d696-4aea-b626-432574508f40": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ColdstrikeSiren",
+        "asset_string": "IcyCilophyte"
+    },
+    "4b7a0257-6f1b-4dde-8c97-b5ca5bd06fc7": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CombativeSiren",
+        "asset_string": "SirenoftheSea"
+    },
+    "5259f045-a38e-4ff8-b6aa-c4efd942058f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EnlightenedSiren",
+        "asset_string": "NamelessSiren"
+    },
+    "b5b205da-0178-4859-b7d8-3a8d75cad180": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RuneboundGuardian",
+        "asset_string": "GuardoftheUnnamed"
+    },
+    "545a9444-3773-4867-bfa1-e6032646552f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RuneboundProtector",
+        "asset_string": "TitanSentry"
+    },
+    "6b91f902-deb4-4519-863b-0c8a7f5d871c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterFrostbiteDiscard",
+        "asset_string": "ForgonePower"
+    },
+    "5839cfaa-4784-4ec7-99f0-3dda42b939dc": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterIceSpear",
+        "asset_string": "FrozenLance"
+    },
+    "dfc5f5f4-e328-44cd-b4f3-758cbc1d5fe2": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StygianChampionMartyr",
+        "asset_string": "SolgardtheMartyr"
+    },
+    "35fcb075-2aeb-4a51-92f9-e3d198784906": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StygianChampionTethys",
+        "asset_string": "TethysTitansbane"
+    },
+    "acc7bdd1-8f5b-4738-8c4a-4542792e7388": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AncientSynergy",
+        "asset_string": "AncientSynergy"
+    },
+    "37eaa51b-62cf-4cbc-971f-6d208fd07366": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "DeepOffering",
+        "asset_string": "DeepOffering"
+    },
+    "a82b7b1b-31f1-4634-9cf3-197d17d61ba3": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FrostChanneling",
+        "asset_string": "HoarfrostEffigy"
+    },
+    "174fefa4-95ec-40cf-9116-fcb954c6dc4c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FrozenTotem",
+        "asset_string": "LodestoneTotem"
+    },
+    "fddb49b8-9d3e-457c-a9e8-55b7793db94c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "GiftsForAGuard",
+        "asset_string": "GiftsforaGuard"
+    },
+    "27f9d3dc-b5aa-4a26-abae-aa197bedb6f2": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "IceAndPyre",
+        "asset_string": "IceandPyre"
+    },
+    "758a0b03-3af5-4a70-82e1-4bfca40e92f0": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MagicPowerHand",
+        "asset_string": "HarnesstheTitan"
+    },
+    "21567cc4-f684-48db-b377-b8289729dedc": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ProsperityTotem",
+        "asset_string": "OfferingMonument"
+    },
+    "8ccceee7-0eb9-4aa0-9268-ff83b6f6c54e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SirenSong",
+        "asset_string": "SirensSong"
+    },
+    "bc5cea85-5b63-49fb-bd2b-fe057c015cdd": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SpikeOfTheStygian",
+        "asset_string": "SpikeoftheStygian"
+    },
+    "21ad4f07-1568-4461-8be4-6fb2670bd90d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BlightedTotem",
+        "asset_string": "GlacialSeal"
+    },
+    "6fe6bf99-7e77-4191-9136-fbbecc223bdf": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Drain",
+        "asset_string": "Drain"
+    },
+    "9ed18c87-630e-4f91-a4b6-e6126e51c3b4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FeedingFrenzy",
+        "asset_string": "FrenziedSwarm"
+    },
+    "690ba1bf-378e-4db3-a2ab-c37dc36df04b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "GuardianAmulet",
+        "asset_string": "GuardiansAmulet"
+    },
+    "ecb7cd49-a997-43b6-9820-bf3c46db29d2": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HealingTotem",
+        "asset_string": "GuardianStone"
+    },
+    "3224dfe8-41f9-49b9-8917-3afefb67e9dd": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HoardAcolyte",
+        "asset_string": "Cuttlehex"
+    },
+    "fbfda8b0-63e2-47b4-a969-8377b83333ef": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Icestorm",
+        "asset_string": "Icestorm"
+    },
+    "768a53f0-2743-4298-82c3-8541cbecf935": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "JarOfFrost",
+        "asset_string": "CrystallineSeeds"
+    },
+    "9ea70171-8afd-4fab-ad54-7ff5c8b478b8": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MagicJuice",
+        "asset_string": "UrchinSpines"
+    },
+    "3ca50b9d-9c52-49c8-884f-f4409a4489c9": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Preserve",
+        "asset_string": "Preserve"
+    },
+    "73d96e11-7665-4915-8301-e3e6ffdafb51": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Titanstooth",
+        "asset_string": "Titanstooth"
+    },
+    "561f7a74-93a3-438f-9bfd-fbc84d979bdd": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "UnnamedTome",
+        "asset_string": "UnnamedTome"
+    },
+    "fe73da55-8250-4f96-b3e0-91c19b3e60de": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AntumbraAssault",
+        "asset_string": "AntumbraAssault"
+    },
+    "3020f56f-71a5-4155-8bed-48ada7e7e0de": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ImmortalTrade",
+        "asset_string": "ImmortalTrade"
+    },
+    "89605a1e-342e-401d-8f54-396ec12a7ede": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MakingOfAMorsel",
+        "asset_string": "MakingofaMorsel"
+    },
+    "786b57d8-9790-4812-8c2a-d3463fe739d9": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MineCollapse",
+        "asset_string": "MineCollapse"
+    },
+    "fab34a33-f0c3-41b2-8e7a-d099bb870fc4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "PackedMorsels",
+        "asset_string": "PackedMorsels"
+    },
+    "4ca4ed47-9867-4004-acf0-171c3282751f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "PerilsOfProduction",
+        "asset_string": "PerilsofProduction"
+    },
+    "9f4dd6b6-4a03-4e2d-9a52-8a17b1dd2c93": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "PrismalDust",
+        "asset_string": "PrismalDust"
+    },
+    "45ace521-7551-4473-a4d7-2cf7ecc9fa44": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SpacePrism",
+        "asset_string": "SpacePrism"
+    },
+    "41600212-9122-46e2-a607-545a86830574": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ChampionPenumbra",
+        "asset_string": "Penumbra"
+    },
+    "2e1b29f2-fbe8-47b9-8ef8-1bac4c1f1f65": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ChampionPrimordium",
+        "asset_string": "Primordium"
+    },
+    "d255dfe4-3fa7-4a47-873a-84d441889544": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CopyMorselsUnit",
+        "asset_string": "Morselmaster"
+    },
+    "e27358a6-e42f-410b-be76-75dfbf2bfab4": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CrucibleCollector",
+        "asset_string": "CrucibleCollector"
+    },
+    "abae9cd1-d180-41cb-956c-5cf09cf85fa9": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CrucibleWarden",
+        "asset_string": "CrucibleWarden"
+    },
+    "aa94ef0c-0fd8-4d42-992f-25345d3717b5": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FeederDamageEnemiesUnit",
+        "asset_string": "Shadoweater"
+    },
+    "ed072114-b62e-4f61-8892-adf775d5a34c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FeederPermanentAttackBoost",
+        "asset_string": "Overgorger"
+    },
+    "e16040b1-eac0-4769-bc89-90bc2eb31944": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MoltenMorsel",
+        "asset_string": "MagmaMorsel"
+    },
+    "9c8d3e46-1758-4ade-a4b4-cd2bf649a4d6": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MorselJeweler",
+        "asset_string": "MorselJeweler"
+    },
+    "7ff3a3e0-655c-4492-a015-a96441728882": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Morselmaker",
+        "asset_string": "Morselmaker"
+    },
+    "536e6de0-7ccf-412a-9a4e-ec55ab3988e5": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MorselMiner",
+        "asset_string": "MorselMiner"
+    },
+    "e2ed318d-754c-41b8-8df6-0a6af221e54e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RubbleRaiser",
+        "asset_string": "RubbleMorsel"
+    },
+    "0347419a-2e3a-492d-a054-f6e340be3db2": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ShadowMorsel",
+        "asset_string": "AntumbraMorsel"
+    },
+    "379000d5-0658-40f3-be48-3bf5572330b2": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterDamageForMorsel",
+        "asset_string": "Plink"
+    },
+    "d96af7f1-0efc-4859-9077-83618b9176dd": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterRandomFood",
+        "asset_string": "Shadesplitter"
+    },
+    "b24a8e4f-294f-4d24-9bc2-9c14474d83d1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "VoidExcavator",
+        "asset_string": "MorselExcavator"
+    },
+    "3db9cb2c-3495-47a7-983e-d717a206460c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AlloyedConstruct",
+        "asset_string": "AlloyedConstruct"
+    },
+    "66189a7b-2593-4b08-aafd-f1bdae7e3c2a": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AnnihilateRoomDamage1",
+        "asset_string": "BlazingBolts"
+    },
+    "0130a4a0-2269-4003-97e1-58d1f5ce3bd8": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AnnihilateRoomDamage2",
+        "asset_string": "BlazingBolts2"
+    },
+    "c778fab6-585a-40ea-9f26-c460b8b82eae": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AnnihilateRoomDamage3",
+        "asset_string": "BlazingBolts3"
+    },
+    "e4c1814d-3c45-47aa-afdd-cb3fbe8e821d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CopyMorselTwice",
+        "asset_string": "ShroudMitosis"
+    },
+    "126a45ce-1bde-42c1-bc69-f04ea4901655": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ForeverConsumed",
+        "asset_string": "ForeverConsumed"
+    },
+    "a558ca3d-bf9b-429b-96ea-3fa4c0a5538b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FurnaceTap",
+        "asset_string": "FurnaceTap"
+    },
+    "001ff190-4559-42b9-9ca0-73e557656e85": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "GainXEnergy",
+        "asset_string": "Kindle"
+    },
+    "9d801796-2b9f-496a-96fe-99b28bb32251": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Retch",
+        "asset_string": "Retch"
+    },
+    "4dd2be98-c73c-4f96-865f-6c24cc42e91d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Shadowsiege",
+        "asset_string": "Shadowsiege"
+    },
+    "fecc00fd-70ef-473e-bfa1-35c221540d43": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ShroudSpike",
+        "asset_string": "ShroudSpike"
+    },
+    "e77e9f90-8a79-4af5-bbb1-31a99bdf2466": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "UmbraStone",
+        "asset_string": "UmbraStone"
+    },
+    "22193a05-0276-4483-9b8f-1637dcf7519e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Cannibalize",
+        "asset_string": "Cannibalize"
+    },
+    "8b1c7ea7-a7f4-4e21-9a2a-01a255e15d67": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "CaveIn",
+        "asset_string": "CaveIn"
+    },
+    "34d8ec74-19ff-498a-b51d-821e7f65cf27": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EmberCache",
+        "asset_string": "EmberCache"
+    },
+    "87d7cda6-1568-405f-a295-5040f378b4d3": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EmberForge",
+        "asset_string": "EmberForge"
+    },
+    "0ec5622b-a425-489e-8857-97ba023f92d3": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EngineUpgrade",
+        "asset_string": "EngineUpgrade"
+    },
+    "682ef9b9-80cb-4e00-8d57-09340d6f4cc1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ExcavationEruption",
+        "asset_string": "ExcavationEruption"
+    },
+    "236215da-c1dd-40b7-8793-27ce327a7e78": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Feast",
+        "asset_string": "Feast"
+    },
+    "cf85905c-6810-461a-a196-a73e51fbaf2f": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "GemTrove",
+        "asset_string": "GemTrove"
+    },
+    "70dc3602-861d-4a41-96d6-d13880835dbb": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Grovel",
+        "asset_string": "Grovel"
+    },
+    "66a6a723-6f60-47ef-8256-454de1c32475": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "IncreaseRoomCapacity",
+        "asset_string": "CrucibleExtension"
+    },
+    "2e77fd27-8322-46ce-a56f-d45844ee577e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "PrismRetrieval",
+        "asset_string": "PrismRetrieval"
+    },
+    "777eb807-d29c-45e5-b1f2-cafd768ce2a5": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "VoidBinding",
+        "asset_string": "VoidBinding"
+    },
+    "55f5945e-8cb3-4577-9207-a92c5deb78d5": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Steelsinger",
+        "asset_string": "Steelsinger"
+    },
+    "126c5aac-3d6d-4452-825b-1af9e46c01e8": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BuildACard",
+        "asset_string": "OldeMagic"
+    },
+    "62dee95d-4d9e-4302-840d-805942b4fd03": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HephHammer",
+        "asset_string": "GoodOlWingmaker"
+    },
+    "6f770340-a37d-4e25-9a93-6b2e46f9a252": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HephUnit",
+        "asset_string": "HephtheBlacksmith"
+    },
+    "b4e5b90b-6f82-44ee-8310-eeccb41210b1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MergedSpell_Single",
+        "asset_string": "NexusSpike_Single"
+    },
+    "40128d00-801b-410c-bbb8-ab6ee15b0aff": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MergedSpell_Targetless",
+        "asset_string": "NexusSpike_Targetless"
+    },
+    "699a89c4-83c5-4fd2-8127-83624bdf032c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RecruitEnemy",
+        "asset_string": "FortheGreaterGood"
+    },
+    "a83756a0-7264-47d1-a661-d8ab2420fe29": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ApexImp",
+        "asset_string": "ApexImp"
+    },
+    "c6484604-b077-43ce-84a4-0179d2f36352": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HallowedHalls",
+        "asset_string": "HallowedHalls"
+    },
+    "eaaae54e-58ed-4926-b5bb-a0b36404c4b7": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EelGorgon",
+        "asset_string": "EelGorgon"
+    },
+    "13876e8d-b111-429d-acdb-2e095fda897e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "MorselMade",
+        "asset_string": "MorselMade"
+    },
+    "a524d58a-6b12-4ec4-870c-679837e234cf": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BogFly",
+        "asset_string": "BogFly"
+    },
+    "4e8b6d4c-ee6b-46e7-8804-b94489af371d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BoundingEchoes",
+        "asset_string": "BoundingEchoes"
+    },
+    "096def92-500b-4b1f-89f7-43e96aa1e54a": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EchoInfusion",
+        "asset_string": "EchoInfusion"
+    },
+    "75ce1442-757b-4e9f-826d-8325f3dc7d9e": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EchoSnare",
+        "asset_string": "EchoSnare"
+    },
+    "afbbafc8-fd5a-42af-ac79-a677ab0185d8": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EchoTransfer",
+        "asset_string": "EchoTransfer"
+    },
+    "5ae81798-157e-4fcb-b4e6-822ff40843b0": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "HostingKin",
+        "asset_string": "HostingKin"
+    },
+    "4de04eeb-76d9-4ad0-b5cd-8c2b997395f5": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Proclamation",
+        "asset_string": "Proclamation"
+    },
+    "1754dece-cf0b-455e-b9ca-d238134d7762": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Shelter",
+        "asset_string": "Shelter"
+    },
+    "27b0fdda-5dc4-4280-a510-fe51e550e3fb": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BogChrysalis",
+        "asset_string": "BogChrysalis"
+    },
+    "07448181-5b6f-404a-88ff-cb4d8ac8a3b1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BogdeepCocoon",
+        "asset_string": "BogdeepCocoon"
+    },
+    "a65f1715-c61b-4339-911e-5d64412afa24": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BogWurmling",
+        "asset_string": "BogWurmling"
+    },
+    "51ae5be0-5fbf-4be2-94a7-0f18d51fcc54": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "FirstOfKin",
+        "asset_string": "FirstofKin"
+    },
+    "47ea291c-0faa-4cbb-a559-8c57e2934ad0": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Glareminder",
+        "asset_string": "Glareminder"
+    },
+    "e83182b1-ae94-4f7e-b7fe-aea5b825ecbe": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "Glugsider",
+        "asset_string": "Glugsider"
+    },
+    "1acb9146-44b9-476c-a30e-5778750710a1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "KeeperOfEchoes",
+        "asset_string": "KeeperofEchoes"
+    },
+    "8fcb523c-690f-44cb-887d-7112795a50a1": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "KinhostCarapace",
+        "asset_string": "KinhostCarapace"
+    },
+    "caa7dad5-e3a5-45f7-a5d6-1133162dd528": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "KinhostPupa",
+        "asset_string": "KinhostPupa"
+    },
+    "057f7f77-df4b-4981-9e6d-533a6e667f39": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "KinhostVessel",
+        "asset_string": "KinhostVessel"
+    },
+    "8cd475e4-6e39-4306-b544-026bf30f4eac": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ShardsoulCarver",
+        "asset_string": "ShardsoulCarver"
+    },
+    "6730f232-eba5-4b86-b8fc-fdb673d7824d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterEchoBreak",
+        "asset_string": "EchoBreak"
+    },
+    "b197fdec-a77d-49f5-bc05-6233b7ce01c7": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "StarterFracture",
+        "asset_string": "Fracture"
+    },
+    "8b6c19ce-c8d0-4a77-b33a-e490d0d1b282": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WurmChamp1",
+        "asset_string": "SpineChief"
+    },
+    "15e25a50-5235-4c45-803b-cada23022671": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WurmChamp2",
+        "asset_string": "Echowright"
+    },
+    "71df734f-cb47-4f8b-a298-d15052e6b396": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AcceleratedIncubation",
+        "asset_string": "AcceleratedIncubation"
+    },
+    "78996030-e8d1-4731-897e-ee4b809fa26c": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EchoesOfThePast",
+        "asset_string": "EchoesofthePast"
+    },
+    "c354dd2c-0087-4eae-82d9-d4ab17b15f19": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "EternalKinstone",
+        "asset_string": "EternalKinstone"
+    },
+    "9d04efb5-8794-42a8-8282-e8ef895e6c3a": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "PerfectInsanity",
+        "asset_string": "PerfectInsanity"
+    },
+    "f213cc62-90f4-4bc8-a96f-0b191a7ec7ef": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SymphonyOfTheSoul",
+        "asset_string": "SymphonyoftheSoul"
+    },
+    "17fb5276-2311-44c9-b662-b73581d9af56": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "UnearthedRemains",
+        "asset_string": "UnearthedRemains"
+    },
+    "0e50f7bc-c7c4-46b5-98a4-33d32194d7b8": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WurmkinEtchings",
+        "asset_string": "WurmkinEtchings"
+    },
+    "83c87c23-39a9-4c92-a6d0-3f640c35534d": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "WurmkinSpike",
+        "asset_string": "WurmkinSpike"
+    },
+    "75cfe90b-47b9-406c-b891-33564aac6677": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AmbientCharge",
+        "asset_string": "AmbientCharge"
+    },
+    "f2bed1d3-6b52-43d5-8b97-bfe5c90dce53": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "AncientResonance",
+        "asset_string": "AncientResonance"
+    },
+    "f954f70d-e83b-4c64-9827-89e5770a56ef": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "BrokenMemories",
+        "asset_string": "BrokenMemories"
+    },
+    "1cc57bf5-b4c0-4102-8fb3-0c7e68813472": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ForcedContamination",
+        "asset_string": "ForcedContamination"
+    },
+    "fccd2d4d-8751-4d7b-bd0a-e66f7586b275": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ForgottenTrade",
+        "asset_string": "ForgottenTrade"
+    },
+    "f50ecee3-8bde-4100-a315-a362ff23a561": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "PowerOfKnowledge",
+        "asset_string": "PowerofKnowledge"
+    },
+    "6a3633b6-4ecc-43b1-bb56-548f56cf1d60": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "ReturnedSoul",
+        "asset_string": "ReturnedSoul"
+    },
+    "ae114dc4-d08f-4909-a2ad-d99215661463": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "RevengeOfTheDamned",
+        "asset_string": "RevengeoftheDamned"
+    },
+    "9e2edcaf-b882-4b8e-ae02-95470ab63047": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SoulCripple",
+        "asset_string": "SoulCripple"
+    },
+    "aaaddead-a999-40ae-8327-a6f977645c04": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SoulcrushingGuilt",
+        "asset_string": "SoulcrushingGuilt"
+    },
+    "95f7b6b7-a574-477d-abef-a8bd3388d87b": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "SoulSiphon",
+        "asset_string": "SoulSiphon"
+    },
+    "e99ddd0d-895f-4211-a6b5-ce95175d3fea": {
+        "from_file": "VanillaCardIDs",
+        "asset_name": "TotalRecall",
+        "asset_string": "TotalRecall"
+    }
+}

@@ -1,0 +1,812 @@
+{
+    "953e04d4-1b10-4fc5-9e9d-b227e0cb82e8": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ArmorInFrontSlot",
+        "asset_string": "ARCHIVEDWIPArmorinFront"
+    },
+    "252255fe-06eb-49b0-8909-0f3de6f61591": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "EatMorselsInstantly",
+        "asset_string": "ARCHIVEDWIPEatmorselsinstantly"
+    },
+    "e3dd8fcf-547d-4260-bc9c-46a5a3730d6c": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FragileStealthAttack",
+        "asset_string": "ARCHIVEDWIPRemnantArtifact"
+    },
+    "9c36d0a9-84f1-43b4-8237-7afeea52bb6e": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "UpgradeAttackBackUnit",
+        "asset_string": "ARCHIVEDWIPArtifact"
+    },
+    "a5ca873b-8490-490f-85be-9b3b1ed554af": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "WipStygian1Relic",
+        "asset_string": "ARCHIVEDWIPRelic"
+    },
+    "9291142a-dc6f-4834-89f1-ceda778e06ec": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "BossCapacity",
+        "asset_string": "LightofSeraph"
+    },
+    "2d313e11-aa80-4116-b359-7560d3307544": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "BossCapacity2",
+        "asset_string": "LightofSeraph2"
+    },
+    "780f977e-4007-45ae-900f-c8929b2bf000": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "BossEmber",
+        "asset_string": "FelsRemorse"
+    },
+    "6eef1e2d-3bd5-4f04-bd88-d0c24d5eb691": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "BossEmber2",
+        "asset_string": "FelsRemorse2"
+    },
+    "f9cc17ee-b7e5-45de-a02f-bd271e2dcd1a": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "BossIncreaseTurnDraw",
+        "asset_string": "HerzalsCompound"
+    },
+    "341001b3-3fa9-47a5-9d88-eb04390b82fa": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "BossIncreaseTurnDraw2",
+        "asset_string": "HerzalsCompound2"
+    },
+    "5e5d863b-514c-4026-a9b0-ffe56af2a3eb": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AddStingToHand",
+        "asset_string": "Thornfruit"
+    },
+    "1fd244de-7d7b-4345-974b-4e5bf287a3df": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AwokenRegen",
+        "asset_string": "TheBloatingFungus"
+    },
+    "9a38370b-150c-45bd-9e3e-93a688a04850": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CardDrawOnHeal",
+        "asset_string": "SapTap"
+    },
+    "00063533-9277-485c-b100-13637a228f9a": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToVineGrasp",
+        "asset_string": "CursedVines"
+    },
+    "ae618996-fea4-431e-8911-f9715f96c898": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "HealToDamage",
+        "asset_string": "PriorysCloak"
+    },
+    "a6c957cc-e9f5-49b7-a6a3-cd7e95393289": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "MoreSpikes",
+        "asset_string": "GnarledRoot"
+    },
+    "4778bb46-27e4-49ae-aa5d-750813ceb6d0": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "RootBeforePyre",
+        "asset_string": "RootsplitMask"
+    },
+    "2d367bde-7616-4804-a6c9-910060ae5fd7": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "StingBuffPiercing",
+        "asset_string": "ThornCasing"
+    },
+    "0f6d3edc-d212-4e3a-877f-e9eb2ac78339": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "StingBuffPower",
+        "asset_string": "Channelheart"
+    },
+    "aa94ad34-ee09-464e-89ff-2a2c2867c097": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "StrongerSpikes",
+        "asset_string": "PetrifiedCrucible"
+    },
+    "cb2c9d18-9a05-4523-acdc-6e4af73152aa": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "UpgradeMaxHpFrontUnit",
+        "asset_string": "EmblemoftheExiles"
+    },
+    "b149030f-3d73-4c99-ab3b-a4875e39dcb1": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AttackDecreaseEnemies",
+        "asset_string": "WingedIndulgence"
+    },
+    "f3f07b9b-1349-41d0-abab-bd5ec04d81e4": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CardDrawOnCardPlay",
+        "asset_string": "WingedSteel"
+    },
+    "1e972d81-fc2f-4d4a-ade9-46edeb246dbd": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToCleanse",
+        "asset_string": "CleansingWater"
+    },
+    "18217b11-1a34-436c-9c5a-7326c5b655a0": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToDamage",
+        "asset_string": "InfusedMallet"
+    },
+    "2fe90c61-3b6e-4290-a984-e4ef6e8f3e2d": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToDaze",
+        "asset_string": "ConcussiveCoals"
+    },
+    "51d95691-d59e-42f1-84ba-8c530743df69": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToNotConsume",
+        "asset_string": "WingClippings"
+    },
+    "ffcb6931-e45e-4e27-bacf-4c649779c2be": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CheaperMerchants",
+        "asset_string": "GuildMarker"
+    },
+    "1d4b98db-c6b4-44fb-b3cb-2242fdff06cb": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CheaperUnits",
+        "asset_string": "ForeverFlame"
+    },
+    "2d2450a5-4ed5-4d9a-bba2-15c9eb0eee6d": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnConsume",
+        "asset_string": "TraitorsQuill"
+    },
+    "269a6f43-9982-4683-ac39-1a862e481898": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnFloorTransition",
+        "asset_string": "Jackstrips"
+    },
+    "c6bd4947-2c30-4703-bf5c-80ec070efb67": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DazeBeforePyre",
+        "asset_string": "LightsGift"
+    },
+    "115c50c3-6cba-4589-82f5-30b0648f3db6": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DazedOnEnterPyreRoom",
+        "asset_string": "VaporFunnel"
+    },
+    "8da05b19-a15f-4988-82b6-b47b2685fbb8": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DazedOnFloorAscendDescend",
+        "asset_string": "IronDropcage"
+    },
+    "b8071ec7-60b6-4526-bd2e-877ba90310d0": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "EmberAtBattleStart",
+        "asset_string": "ImprovedFirebox"
+    },
+    "088041a7-fdbf-43d7-8ee6-b6720ce747b8": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "EmberTwoMonsters",
+        "asset_string": "HellsBanners"
+    },
+    "60a7f580-0788-42f2-8896-cb8d22e849a5": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ExtraSpellUpgrades",
+        "asset_string": "LightstoneCasing"
+    },
+    "3203c2d3-58f3-4f38-888e-886d8faae758": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ExtraUnitUpgrades",
+        "asset_string": "PyrestoneHousing"
+    },
+    "fecb41b4-fd26-4f5c-aa1b-84152e090fa2": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "HealthIncreaseMonsters",
+        "asset_string": "HammeredChestplates"
+    },
+    "6af9b270-c064-484b-8da4-d4a22d2fecff": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseMagicPower",
+        "asset_string": "TemperedTalisman"
+    },
+    "832037fc-aa99-4822-b03b-7146aaad2b51": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ModifyTowerMaxHealth",
+        "asset_string": "PreciousPlating"
+    },
+    "20dbb7f3-9b97-440a-8a23-3d7a00ed5d8d": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ModifyXCostCards",
+        "asset_string": "TheFirstHellpact"
+    },
+    "22fd0117-f7bf-405e-8a8e-863396c8a679": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "PyreArmor",
+        "asset_string": "Pyrewall"
+    },
+    "b6bae748-ab1a-4bfe-9ef8-4e5f7d43afc4": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "PyreDamageBuff",
+        "asset_string": "BoonoftheBlacksmith"
+    },
+    "834f4c02-2987-469c-8634-eac97f2f67c8": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "RandomCardCostOnDraw",
+        "asset_string": "VolatileGauge"
+    },
+    "297c5b7b-efb1-4834-96e0-de4a7e42ccbc": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "RandomUnitEveryFloor",
+        "asset_string": "SketchesofSalvation"
+    },
+    "9cc85dbb-d0ae-409b-8f26-41d2202eb1e0": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ReduceSpellCostOfCheaper",
+        "asset_string": "SplitAnvil"
+    },
+    "4821aca0-4bb9-4a2b-b196-5ffb5d6ede5e": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "RestorePyreOnConsume",
+        "asset_string": "RefractingLenses"
+    },
+    "04397cf6-0fdd-4ae6-aa53-1e60d3ca7e46": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "StewardBuff",
+        "asset_string": "AdvancedPrototype"
+    },
+    "4190af4b-a32f-42ab-acda-8f0d4f50c3a5": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AddAttackOnKill",
+        "asset_string": "ConsumedCrown"
+    },
+    "91211832-747e-4995-b4cb-7ca23c000f10": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AddImpToHand",
+        "asset_string": "Impcicle"
+    },
+    "3e200d1f-7ba9-4a6e-a09d-5625f25b01ac": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ConserveEmber",
+        "asset_string": "TheUnbrokenHorn"
+    },
+    "9e0deb69-6196-44a6-8220-85bd0df25f77": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ExtraSpawnTrigger",
+        "asset_string": "AshesoftheFallen"
+    },
+    "0a6cff92-aefa-4d7f-ae71-615c8e30739b": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FirstImpBonus",
+        "asset_string": "QueensTail"
+    },
+    "94595f3a-4624-4408-977d-b166a98f23d2": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ImpDamageBuff",
+        "asset_string": "GrrrgsGoad"
+    },
+    "ba26070b-4f6b-4af0-a1ec-2af024b6af87": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseArmorStacks",
+        "asset_string": "Railhammer"
+    },
+    "b9bddf11-acaa-40fb-bc40-eee83e478424": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseRageDamage",
+        "asset_string": "ResonantShard"
+    },
+    "b7822614-96ec-4ace-9029-6efc8adef374": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "RagePreservedOnFriendlies",
+        "asset_string": "CollectionofTails"
+    },
+    "68ef2523-5c2e-4660-b96d-00b1c0485f54": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "SpawnWithArmor",
+        "asset_string": "ScorchedSteel"
+    },
+    "55ca34e9-047b-4b93-b390-d8d228a43261": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "SpawnWithRage",
+        "asset_string": "ScorchingRestraints"
+    },
+    "cb54fe76-9b3c-47f9-972c-424ec3ee39f7": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnBurnoutDeath",
+        "asset_string": "ExplodingCandle"
+    },
+    "19147050-9859-4cf1-b826-f258f6c48c42": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnGoingDownFloor",
+        "asset_string": "MoldBraces"
+    },
+    "4a5b1613-568c-4bf6-8bf7-15f8bf013345": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "EmberOnTombDeath",
+        "asset_string": "EncasedEmber"
+    },
+    "52c41ba0-f720-4b7e-9dd0-bd318be6acae": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "EnhanceAttackOnConsume",
+        "asset_string": "ResinBlock"
+    },
+    "a5d67620-a9ec-4257-91b5-305336e11987": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ExtraDeathTrigger",
+        "asset_string": "WaxerSnuffer"
+    },
+    "61fdeafd-21c5-4009-a448-a5c286ac3fc0": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ExtraToughTombs",
+        "asset_string": "MeltingSpout"
+    },
+    "265d9fb6-934f-4b7d-ba12-d3a06c48b610": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "GoldOnDeath",
+        "asset_string": "MemorialFund"
+    },
+    "dc32326b-0952-4b3b-8bc8-cec909476c5f": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseBurnoutStacks",
+        "asset_string": "CombustibleWax"
+    },
+    "85667d60-8053-4204-8c02-ba101dab7945": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "RageOnBurnoutStackLoss",
+        "asset_string": "FadesFirstBlade"
+    },
+    "128dd519-611c-4999-b7ac-e63ea027b1fa": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ReduceRandomCardCostOnUnitPlay",
+        "asset_string": "FlickersLiquor"
+    },
+    "22f5ff29-69be-4043-9fe1-245392ea3c95": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "StealthWaxers",
+        "asset_string": "VotiveKey"
+    },
+    "98989cbb-c729-4f87-8240-08f448db96d8": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceForSpellWeakness",
+        "asset_string": "TethysScales"
+    },
+    "be9b4dd1-c0ba-41bd-a276-108ca7dad0fa": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToSilence",
+        "asset_string": "SigiledSeaweed"
+    },
+    "b6e80269-efdd-4e28-97b3-8b19e8236b2e": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnCardPlayed",
+        "asset_string": "TokenofaTraitor"
+    },
+    "44149a09-df55-4864-b5d9-f30c4e659999": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "EmberOnEarlyDiscard",
+        "asset_string": "KinstoneTotem"
+    },
+    "410ba540-7c4f-4dc5-a84f-b1d8af508891": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ExtraSpellCastTrigger",
+        "asset_string": "FoundingSeal"
+    },
+    "c07618e6-b679-4e2c-87a2-9203f52989cf": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FreezeRandomEndOfTurn",
+        "asset_string": "IcicleFracture"
+    },
+    "d2de397e-6fce-442f-a9e4-c3f3ee7bdbcf": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FreezeReduceCost",
+        "asset_string": "TitansClaws"
+    },
+    "270356af-16bd-4433-a0b2-3e5bb94ef890": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FrostbiteOnEnemies",
+        "asset_string": "RulesofContainment"
+    },
+    "9cb2b9b2-0308-4f71-92e8-e96a30b87416": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseFrostbiteStacks",
+        "asset_string": "Cuttlebeard"
+    },
+    "76166da7-d9aa-4c68-9a78-64914ec49f81": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseMagicPowerOnSpellsPlayed",
+        "asset_string": "AForgottenName"
+    },
+    "5a96d89f-d7c0-49fa-88d1-8ec75a8f3140": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "SpellWeaknessBelowPyre",
+        "asset_string": "TotemFragment"
+    },
+    "b6548209-3ccf-4deb-9896-f07d5df3dab9": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AddSnackOnKill",
+        "asset_string": "Shadelamp"
+    },
+    "81958958-6481-4847-afe1-cb651a041f6c": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AddSnackToHand",
+        "asset_string": "AbandonedAntumbra"
+    },
+    "15f3c641-14ba-4305-8c9f-cdb2ebb4e572": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "BigDamageFromManyMorsels",
+        "asset_string": "Shadowbox"
+    },
+    "38990528-6639-4cb2-b310-4e14193256a0": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnEaten",
+        "asset_string": "TeethofGold"
+    },
+    "8b00c46d-374e-4afb-aa27-526873e242d1": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DrawOnSnackPlayed",
+        "asset_string": "MaskofPenumbra"
+    },
+    "b6613fe4-13c6-4462-8a0b-9af42850a851": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ExtraFeedTrigger",
+        "asset_string": "FossilizedFangs"
+    },
+    "60a2a8a3-5f7a-4a9d-b427-5f261145fa1f": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FirstUnitGainDamageShield",
+        "asset_string": "ChainofGems"
+    },
+    "775d24d8-98eb-4f22-ae50-d7069bf05757": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "MoreCapacity",
+        "asset_string": "MineJacks"
+    },
+    "d1daea7e-3346-47df-a756-c839b044e5f3": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "MorselsGetDamageShield",
+        "asset_string": "WingedTechnology"
+    },
+    "80a1b361-ee3a-43ae-86bd-da1ddac33a0a": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "SpawnRandomMorsels",
+        "asset_string": "CommemorativeSpike"
+    },
+    "a6b0b657-8893-4cc8-bc62-ec09544c4306": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "UnitsGainLifesteal",
+        "asset_string": "RefinedVoid"
+    },
+    "3f6aa752-318e-42c0-bf7a-ba9ea3bbd3de": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AddAttackPerBlight",
+        "asset_string": "PenitentRemains"
+    },
+    "32634a16-f477-463d-b697-e814197da535": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AllRoomsMoreCapacity",
+        "asset_string": "RailforgersHammer"
+    },
+    "714e922c-4a40-4c61-bdc3-bbc6c2d6c4dc": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CardDrawOnBlightDraw",
+        "asset_string": "WeatheredColdstones"
+    },
+    "8d82ea2b-6672-49fd-8220-66bb12280bbc": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnBlightPlayed",
+        "asset_string": "EmberStasis"
+    },
+    "76892922-e4c8-4de5-b28e-500797ac4826": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "HealthBuffHealImmunity",
+        "asset_string": "PetrifiedHeart"
+    },
+    "d8142858-f12d-4fd6-9995-02f0d12d0b12": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "HealTrainOnPyreKill",
+        "asset_string": "BloodforBlood"
+    },
+    "003541f1-bbd8-4657-af8c-87809ec9dd16": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "LessCapacityCheaperSpells",
+        "asset_string": "FrozenNostalgia"
+    },
+    "10648aee-8577-49b6-8659-318a7f922d5a": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "PurgeToExhaust",
+        "asset_string": "HopeforPeace"
+    },
+    "d8e07e64-4a4b-46ab-be16-5ff90abaab37": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "PyreDamageBuffGoldScaling",
+        "asset_string": "HeavensGold"
+    },
+    "ba36ec3c-9bb8-4428-b15b-d989cf70216b": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "RandomLargerRoom",
+        "asset_string": "HistoryoftheWorld"
+    },
+    "cb74adcf-b463-4424-a519-d1098ecd5373": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ScalingBlightEnergyAdd",
+        "asset_string": "AbandonedStave"
+    },
+    "c1102381-a1f5-4d17-be35-8f51f820982a": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ScalingBlightMagicPower",
+        "asset_string": "DantesCloak"
+    },
+    "b6282e63-9c8e-477f-9797-ecd43412e47a": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "PactArmor",
+        "asset_string": "ShardofDivinity"
+    },
+    "354a04d5-7beb-436f-bf01-760d0c57f2aa": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FreeReroll",
+        "asset_string": "FreeReroll"
+    },
+    "30ca6dec-dc12-4967-8f72-fca528a0d30c": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3AttackIncreaseChamp",
+        "asset_string": "MarkofaChampion"
+    },
+    "3197ba1d-d6e7-4bd5-a80c-d9848eebace3": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3AttackIncreaseMonsters",
+        "asset_string": "WornGrindstone"
+    },
+    "a19cac7c-b2e0-42bd-bc1e-d180e17a1c15": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3CheaperBlightScourge",
+        "asset_string": "SinnersSalve"
+    },
+    "2058bafa-a15c-4787-9b9e-4dc7fdf09b74": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3DrawToMaxStartOfCombat",
+        "asset_string": "LostLuggage"
+    },
+    "6aa37e42-945b-4a18-a76c-c22831c207e9": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3FirstWaveDazed",
+        "asset_string": "FaultyLoader"
+    },
+    "a4c5a50a-23c3-440d-98fa-14f90d62d0b6": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3GoldBlockPyreHP",
+        "asset_string": "GoldenVault"
+    },
+    "b6e760cf-b6f7-455c-847f-05db085734f1": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3GoldPyreHealthSetTo40",
+        "asset_string": "RationingScales"
+    },
+    "87b60536-b452-4956-b823-3c02f005d38b": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3HealthIncreaseChamp",
+        "asset_string": "MarkofanExile"
+    },
+    "2b7ee5f7-cf89-40b0-ae47-c73c5c879751": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3SappedAttack",
+        "asset_string": "ConscriptionNotice"
+    },
+    "a7a660fa-9f6f-4e01-b8cc-8a19bbcde44d": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3ShowDrawOrder",
+        "asset_string": "CheatersHand"
+    },
+    "9e0e5d4e-6d16-43f1-8cd4-cc4c2b431afd": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3UpgradedDrafts",
+        "asset_string": "CapriciousReflection"
+    },
+    "217d553b-cddf-4a8c-a4c9-cfdb3c99389c": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "2ChargesOnCardConsumed",
+        "asset_string": "BogSlime"
+    },
+    "51368ce4-b037-49ef-801c-545405b78800": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CopyConsumedCard",
+        "asset_string": "EchoSeedling"
+    },
+    "a528a1b2-0d14-4fc5-9b8f-4b1f23722422": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CorruptionBattleStart",
+        "asset_string": "BaseCharge"
+    },
+    "f302d4a1-13ba-4907-a26d-f0d8eead6f2e": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnCorruptPlay",
+        "asset_string": "SerratedMandibles"
+    },
+    "9427e610-0c7b-4430-ab1f-c84049097168": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DrawOnCorruption",
+        "asset_string": "DunEcho"
+    },
+    "8c8a2a2c-500c-4b77-90fd-0d309b94bb2c": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "EggHatchRemoval",
+        "asset_string": "HardenedHull"
+    },
+    "4d237444-5beb-43df-a545-c68a7ae86ba6": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ExtractForEmberAndEchos",
+        "asset_string": "CarvingCorusca"
+    },
+    "55c06c99-7cee-4d7e-ad17-f893722d8071": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseDecaySlimeStacks",
+        "asset_string": "DecayedDecoy"
+    },
+    "3a28026e-e44b-4456-b535-7134e7525240": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseMaxCorruption",
+        "asset_string": "MindHoard"
+    },
+    "a4c87eb7-1c4e-4f63-af08-79f910e5a2e8": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "MagicPowerWhenCardConsumed",
+        "asset_string": "NoticeStone"
+    },
+    "815a25e7-2fed-4cb2-a568-79af12cd7116": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "StarterWurmRelic",
+        "asset_string": "Wurmtooth"
+    },
+    "a66188b9-845d-475e-b6e6-7ea5335ec00b": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "UnremovableCorruptionTop",
+        "asset_string": "EncasedDivinity"
+    },
+    "c14d2134-9427-4fdc-a9fa-636d90e80ede": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AddAttackOnKill_Divine",
+        "asset_string": "DivineConsumedCrown"
+    },
+    "474d1169-4805-4385-8042-b7d9f4f18a7f": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CardDrawOnCardPlay_Divine",
+        "asset_string": "DivineWingedSteel"
+    },
+    "65eee28f-0d5b-4794-a46c-0659f9f7c77f": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnBurnoutDeath_Divine",
+        "asset_string": "DivineExplodingCandle"
+    },
+    "3a4f2b0b-9a4c-46f4-ac21-ee8571832070": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnCardPlayed_Divine",
+        "asset_string": "DivineTokenofaTraitor"
+    },
+    "9c15b2b2-ab93-4026-b607-64baba6dc258": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "HealthIncreaseMonsters_Divine",
+        "asset_string": "DivineHammeredChestplates"
+    },
+    "bac5342b-cd82-42d6-9306-41ab2548e698": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseMagicPower_Divine",
+        "asset_string": "DivineTemperedTalisman"
+    },
+    "2ebcb820-bfa6-4d90-b98b-92a1191a9120": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "PyreArmor_Divine",
+        "asset_string": "DivinePyrewall"
+    },
+    "252a868c-46d0-4e86-949a-6c3f3789ce5f": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "StewardBuff_Divine",
+        "asset_string": "DivineAdvancedPrototype"
+    },
+    "7d7b0aa6-b60f-426f-b698-a880ee0b7cee": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AttackDecreaseEnemies_Divine",
+        "asset_string": "DivineWingedIndulgence"
+    },
+    "57851cf9-0273-45bf-a5ca-66ea38666ca4": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToDaze_Divine",
+        "asset_string": "DivineConcussiveCoals"
+    },
+    "d82bfb2e-d029-4afa-ae9a-8e0770e8533d": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "CheaperUnits_Divine",
+        "asset_string": "DivineForeverFlame"
+    },
+    "862aa81f-bc0b-4416-9635-35a8e8f2666b": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FrostbiteOnEnemies_Divine",
+        "asset_string": "DivineRulesofContainment"
+    },
+    "5a76e53c-0ca1-424a-afbc-0ff000d362cf": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "MagicPowerWhenCardConsumed_Divine",
+        "asset_string": "DivineNoticeStone"
+    },
+    "b3c4f0af-b848-42a9-9818-3b01abf89463": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "SpawnWithRage_Divine",
+        "asset_string": "DivineScorchingRestraints"
+    },
+    "2d10de14-e967-4de2-8103-f496f9c1bca8": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3AttackIncreaseMonsters_Divine",
+        "asset_string": "DivineWornGrindstone"
+    },
+    "08f44eb7-c991-4dd4-a7d9-fa84e6b8788e": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "UpgradeMaxHpFrontUnit_Divine",
+        "asset_string": "DivineEmblemoftheExiles"
+    },
+    "ef823703-22b8-4706-8bd2-8fa049529eb6": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToCleanse_Divine",
+        "asset_string": "DivineCleansingWater"
+    },
+    "936529ef-16f4-49d0-8836-330f930101c6": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ChanceToDamage_Divine",
+        "asset_string": "DivineInfusedMallet"
+    },
+    "0dc37ac2-c028-493e-afad-23f2f88523ed": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "DamageOnConsume_Divine",
+        "asset_string": "DivineTraitorsQuill"
+    },
+    "1195d5bb-a51f-4372-aa26-c9186d2f078b": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FirstUnitGainDamageShield_Divine",
+        "asset_string": "DivineChainofGems"
+    },
+    "ef006619-4fc1-432c-98b2-ba670ba115bc": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "IncreaseMagicPowerOnSpellsPlayed_Divine",
+        "asset_string": "DivineAForgottenName"
+    },
+    "58a75a4a-1e95-476a-9cd3-16a593d250f2": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "SpawnWithArmor_Divine",
+        "asset_string": "DivineScorchedSteel"
+    },
+    "3d8af56e-917a-4dae-97ae-a8ca774dd131": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3AttackIncreaseChamp_Divine",
+        "asset_string": "DivineMarkofaChampion"
+    },
+    "b60f07fa-99e0-41f0-911d-bb490efdc2e3": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "U3HealthIncreaseChamp_Divine",
+        "asset_string": "DivineMarkofanExile"
+    },
+    "6bb39014-9b03-4620-b088-f618a7e680b7": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "FinalEndingArtifact",
+        "asset_string": "BlankPages"
+    },
+    "3edd9947-7cd6-45d9-bb7d-1e3609acc41b": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AcidRainRelic",
+        "asset_string": "CorruptedCloud"
+    },
+    "088a9e01-d85a-4b20-805b-a7817bcf0c08": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AllSpellsPiercingRelic",
+        "asset_string": "CrackedHelmet"
+    },
+    "7d0d8fab-6457-45c1-bf17-4edeaf2c1670": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "AllUnitsEndlessRelic",
+        "asset_string": "ImmortalityPotion"
+    },
+    "066368bb-085c-462c-b466-5ed911fef80a": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "PermadeathRelic",
+        "asset_string": "BrokenWheel"
+    },
+    "db206ec6-fea3-457c-9469-cef224e662ce": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "ShieldsUpRelic",
+        "asset_string": "JudgementalFittings"
+    },
+    "0a34dd72-df76-43ec-bb18-20afa56f823b": {
+        "from_file": "VanillaCollectableRelicIDs",
+        "asset_name": "WandWoundsRelic",
+        "asset_string": "VialofTears"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "2e67a682-8628-410b-8431-abde54d998b0": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "Level1GoldForSpikes",
+        "asset_string": "Level1GoldForSpikes"
+    },
+    "6102dccc-a49b-4c53-bfd7-a4306d0f743b": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "Level2GoldForSpikes",
+        "asset_string": "Level2GoldForSpikes"
+    },
+    "54086e77-3ae0-4fc6-ba3a-bea2d0a8b77d": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T1GoldForEnemyArmor",
+        "asset_string": "T1GoldForEnemyArmor"
+    },
+    "1020bb09-084a-4d80-992a-81c17d004b6c": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T1GoldForEnemyExtraAttack",
+        "asset_string": "T1GoldForEnemyExtraAttack"
+    },
+    "63234215-d438-4a1a-9c07-6d8a3a4e31f2": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T1GoldForEnemyExtraHealth",
+        "asset_string": "T1GoldForEnemyExtraHealth"
+    },
+    "59a2c19e-3a60-4e7e-9222-d03423212bd9": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T1GoldForInvasion",
+        "asset_string": "T1GoldForInvasion"
+    },
+    "2e24d1d9-6f7b-49e7-b378-f7b0bd65cef9": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T1GoldForLessEmber",
+        "asset_string": "T1GoldForLessEmber"
+    },
+    "ca7bb694-c8ee-423e-a3eb-c3d9a354da32": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T1GoldForSpellShield",
+        "asset_string": "T1GoldForSpellShield"
+    },
+    "60bf877a-c81b-4465-9bdf-86daec2b4f10": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T1GoldForStealth",
+        "asset_string": "T1GoldForStealth"
+    },
+    "536645ea-12cb-4a6e-b0e5-3ecf026f536c": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2ArtifactForEnemyMultistrike",
+        "asset_string": "T2ArtifactForEnemyMultistrike"
+    },
+    "c52f7c5d-815d-454c-963f-20ce2523e1ba": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2ArtifactForHealOnAscend",
+        "asset_string": "T2ArtifactForHealOnAscend"
+    },
+    "254aa597-649a-47a8-8098-bc56cbb0406b": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2ArtifactForSpikes",
+        "asset_string": "T2ArtifactForSpikes"
+    },
+    "46f70d3f-d9c1-4929-bdb3-a64123618527": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2GoldForEnemyArmor",
+        "asset_string": "T2GoldForEnemyArmor"
+    },
+    "e347ed1f-4307-4765-b28a-ff63caa008d5": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2GoldForEnemyExtraAttack",
+        "asset_string": "T2GoldForEnemyExtraAttack"
+    },
+    "a2ddbd87-eb8b-44ae-ab0c-39d6d75e8d0a": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2GoldForEnemyExtraHealth",
+        "asset_string": "T2GoldForEnemyExtraHealth"
+    },
+    "481c8c15-8598-40fe-9c93-382f7fd479af": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2GoldForInvasion",
+        "asset_string": "T2GoldForInvasion"
+    },
+    "78f3f6f9-ac15-443e-a916-caaff68a74ad": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2GoldForLessEmber",
+        "asset_string": "T2GoldForLessEmber"
+    },
+    "a05ef6a0-c306-42db-8fb8-7fca7ffd3441": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T2GoldForSpellShield",
+        "asset_string": "T2GoldForSpellShield"
+    },
+    "ca0a020e-8e2c-4f56-93d7-c9dcfeb53d3f": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForEnemyArmor",
+        "asset_string": "T3GoldForEnemyArmor"
+    },
+    "1bf8065a-71b6-40b8-9310-e92451d7f0a4": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForEnemyExtraAttack",
+        "asset_string": "T3GoldForEnemyExtraAttack"
+    },
+    "9c04def9-7772-4a63-9fda-b8043c27e1ef": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForEnemyExtraHealth",
+        "asset_string": "T3GoldForEnemyExtraHealth"
+    },
+    "b1b76d68-2fdf-4012-b436-dbe6bb0b013a": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForHealOnAscend",
+        "asset_string": "T3GoldForHealOnAscend"
+    },
+    "52488856-83ea-47be-a531-d8db5cfeef69": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForInvasion",
+        "asset_string": "T3GoldForInvasion"
+    },
+    "67bbc264-bfcc-4237-bc53-038088eca400": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForLessEmber",
+        "asset_string": "T3GoldForLessEmber"
+    },
+    "d1fbc3d3-c8d9-4a3f-aa9b-af70a872f06c": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForSpellShield",
+        "asset_string": "T3GoldForSpellShield"
+    },
+    "b4c32258-0dc5-4723-a14f-59cf4f88bd59": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForSpikes",
+        "asset_string": "T3GoldForSpikes"
+    },
+    "2bfd4184-32b8-4ea6-8a8e-c19826b67d00": {
+        "from_file": "VanillaTrialIDs",
+        "asset_name": "T3GoldForStealth",
+        "asset_string": "T3GoldForStealth"
+    }
+}
