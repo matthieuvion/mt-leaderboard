@@ -1,10 +1,11 @@
 """
-Convenience file to
-Download constants ressources from Trainworks2 constants directory :
+Convenience script to
+Download constants ressources from Trainworks2 constants github directory :
 https://github.com/brandonandzeus/Trainworks2/tree/master/TrainworksModdingTools/ConstantsV2
 """
 
 import os
+
 import requests
 
 
