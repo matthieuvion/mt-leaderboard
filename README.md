@@ -5,9 +5,10 @@ This project provides a Python wrapper to access the daily challenge leaderboard
 
 ## Features
 
-- Retrieve details of daily challenges (with and without DLC).
-- Access leaderboard data for specific challenges (current day or previous day only)
+- Retrieve details of daily challenges (with and without DLC) : clan, starting conditions
+- Access leaderboard data for specific a challenge (current day or previous day only)
 - Obtain detailed information on a player's run
+- Api responses as Pydantic Models (Challenge, Leadearboard, Gamerun)
 - Game asset IDs (relics, cards, etc.) corresponding strings are stored in data/ (parsed from the modding community)
 
 ## Leadeboard API limitations
