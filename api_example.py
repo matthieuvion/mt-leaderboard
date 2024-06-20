@@ -44,6 +44,7 @@ def main():
 
     api = MonsterTrainAPI(auth_token=auth_token)
 
+    # The api responses (Pydandic) objects (Leadearboard, Challenge, Gamerun), as defined in models/
     # Get challenge(s) details : no dlc, today and previous day challenges :
 
     vanilla_challenge = api.get_challenge(dlc=0, day=1)
@@ -52,7 +53,6 @@ def main():
 
     current_challenge = api.get_challenge(dlc=1, day=1)
     print("\nToday's Challenge:")
-    pprint(current_challenge)
 
     previous_challenge = api.get_challenge(dlc=1, day=-1)
     print("\nLast day Challenge:")
@@ -60,19 +60,19 @@ def main():
 
     # Leaderboard : first 10 players (1st page) for today challenge :
 
-    challenge_id = current_challenge["id"]
+    challenge_id = current_challenge.id
     leaderboard = api.get_leaderboard(challenge_id=challenge_id, offset=1, limit=10)
     print("\nLeaderboard:")
     pprint(leaderboard)
 
     # Get run details from 1st player in leaderboard :
 
-    user_id = leaderboard["leaderboard"][0]["playerId"]
-    run_id = leaderboard["leaderboard"][0]["runId"]
+    user_id = leaderboard.leaderboard[0].playerId
+    run_id = leaderboard.leaderboard[0].runId
 
-    gameruns = api.get_gameruns(user_id=user_id, run_id=run_id)
+    gamerun = api.get_gamerun(user_id=user_id, run_id=run_id)
     print("\nGame Run:")
-    pprint(gameruns)
+    pprint(gamerun)
 
 
 if __name__ == "__main__":

@@ -1,5 +1,8 @@
 from mt_leaderboard.client import MonsterTrainClient
 from mt_leaderboard.endpoints import CHALLENGE, GAMERUNS, LEADERBOARD
+from mt_leaderboard.models.challenge import Challenge
+from mt_leaderboard.models.gamerun import Gamerun
+from mt_leaderboard.models.leaderboard import Leaderboard
 
 
 class MonsterTrainAPI:
@@ -19,7 +22,7 @@ class MonsterTrainAPI:
         """
         self.client = MonsterTrainClient(auth_token)
 
-    def get_challenge(self, dlc: int = 1, day: int = 1) -> dict:
+    def get_challenge(self, dlc: int = 1, day: int = 1) -> Challenge:
         """
         Retrieves details of today or last day challenge
 
@@ -32,13 +35,14 @@ class MonsterTrainAPI:
         """
         url = CHALLENGE.format(dlc)
         params = {"dlc": dlc, "offsetsequence": day}
-        return self.client.get(url, params=params)
+        response = self.client.get(url, params=params)
+        return Challenge(**response)
 
     def get_leaderboard(
         self, challenge_id: str, offset: int = 1, limit: int = 10
-    ) -> dict:
+    ) -> Leaderboard:
         """
-        Retrieves the leaderboard (scoreboard) for a specific challenge.
+        Retrieves the leaderboard (a specific page) for a given challenge
 
         Args:
             challenge_id (str): The ID of the challenge.
@@ -50,9 +54,10 @@ class MonsterTrainAPI:
         """
         url = LEADERBOARD.format(challenge_id=challenge_id)
         params = {"offset": offset, "limit": limit}
-        return self.client.get(url, params=params)
+        response = self.client.get(url, params=params)
+        return Leaderboard(**response)
 
-    def get_gameruns(self, user_id: str, run_id: str) -> dict:
+    def get_gamerun(self, user_id: str, run_id: str) -> Gamerun:
         """
         Retrieves details about a specific challenge run for a specified player.
 
@@ -64,4 +69,5 @@ class MonsterTrainAPI:
             dict: The game run details.
         """
         url = GAMERUNS.format(user_id=user_id, run_id=run_id)
-        return self.client.get(url)
+        response = self.client.get(url)
+        return Gamerun(**response)
