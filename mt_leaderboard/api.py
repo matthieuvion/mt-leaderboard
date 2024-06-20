@@ -1,5 +1,5 @@
-from client import MonsterTrainClient
-from endpoints import CHALLENGE, GAMERUNS, LEADERBOARD
+from mt_leaderboard.client import MonsterTrainClient
+from mt_leaderboard.endpoints import CHALLENGE, GAMERUNS, LEADERBOARD
 
 
 class MonsterTrainAPI:

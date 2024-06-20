@@ -1,7 +1,8 @@
 import logging
 
 import httpx
-from exceptions import APIError
+
+from mt_leaderboard.exceptions import APIError
 
 
 class MonsterTrainClient:
