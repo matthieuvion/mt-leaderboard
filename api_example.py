@@ -1,14 +1,14 @@
 import logging
-import sys
-
-from mt_leaderboard.api import MonsterTrainAPI
 
 # Set up logging
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 import os
+import sys
 from pprint import pprint
 
 from dotenv import load_dotenv
+
+from mt_leaderboard.api import MonsterTrainAPI
 
 # auth_token stored in .env
 load_dotenv()

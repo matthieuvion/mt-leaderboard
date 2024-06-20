@@ -44,7 +44,7 @@ The Monster Train leaderboard API is unofficial and undocumented. To access the 
 ## Usage
 
 1. Set up your environment:
-   - Create a `.env` file in the root directory.
+   - Create a `.env` file in the root directory (See .env.example)
    - Add your authentication token:
      ```
      AUTH_TOKEN=your_auth_token_here
@@ -52,7 +52,7 @@ The Monster Train leaderboard API is unofficial and undocumented. To access the 
 
 2. Use the API wrapper:
    ```python
-   from api import MonsterTrainAPI
+   from mt_leaderboard.api import MonsterTrainAPI
 
    api = MonsterTrainAPI(auth_token=auth_token)
    
